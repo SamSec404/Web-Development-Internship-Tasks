@@ -33,7 +33,7 @@ This repository may include:
 * HTML5
 * CSS3
 * JavaScript
-* Bootstrap
+* Tailwind
 * Git & GitHub
 * Other technologies and frameworks learned during the internship.
 
